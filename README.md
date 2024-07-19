@@ -24,7 +24,7 @@ This Python script automates the process of detaching a disk volume from an impa
 
    ```bash
    git clone https://github.com/infosecsingh/Volume-Repair-CrowdStrike.git
-   cd 
+   cd Volume-Repair-CrowdStrike 
    ```
    
 ## Install Dependencies
